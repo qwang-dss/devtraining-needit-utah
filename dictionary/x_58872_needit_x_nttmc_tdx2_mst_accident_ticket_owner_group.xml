@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="7de5319a83b1121089b9c5d6feaad30b" label="工事故障オーナーグループマスタ" max_length="40" name="x_58872_needit_x_nttmc_tdx2_mst_accident_ticket_owner_group" type="collection"/>
+</database>
